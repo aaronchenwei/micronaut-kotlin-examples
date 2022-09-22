@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: hello-world-demo
+netty:
+  default:
+    allocator:
+      max-order: 3
