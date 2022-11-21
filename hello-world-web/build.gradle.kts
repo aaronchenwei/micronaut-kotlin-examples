@@ -33,7 +33,7 @@ application {
     mainClass.set("io.github.aaronchenwei.micronaut.example.HelloWorldWebApplicationKt")
 }
 java {
-    sourceCompatibility = JavaVersion.toVersion("17")
+    sourceCompatibility = JavaVersion.toVersion("11")
 }
 
 tasks {
