@@ -30,7 +30,7 @@ dependencies {
 
 
 application {
-    mainClass.set("com.example.ApplicationKt")
+    mainClass.set("io.github.aaronchenwei.micronaut.example.HelloWorldWebApplicationKt")
 }
 java {
     sourceCompatibility = JavaVersion.toVersion("17")
